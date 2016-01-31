@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hamburguesa/Datos.swift"
+            timestampString = "475737167.655643"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hamburguesa/ViewController.swift"
+            timestampString = "475794735.243842"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hamburguesa.ViewController.botonCambiaPais.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Hamburguesa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tavoberry/Documents/Proyectos%20Xcode/programas/Hamburguesa/Hamburguesa/ViewController.swift"
+                  timestampString = "475794779.800597"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hamburguesa.ViewController.botonCambiaPais.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Hamburguesa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tavoberry/Documents/Proyectos%20Xcode/programas/Hamburguesa/Hamburguesa/ViewController.swift"
+                  timestampString = "475794779.800811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hamburguesa.ViewController.init (Hamburguesa.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Hamburguesa.ViewController"
+                  moduleName = "Hamburguesa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tavoberry/Documents/Proyectos%20Xcode/programas/Hamburguesa/Hamburguesa/ViewController.swift"
+                  timestampString = "475794779.801079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hamburguesa.ViewController.init (Hamburguesa.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Hamburguesa.ViewController&gt;"
+                  moduleName = "Hamburguesa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tavoberry/Documents/Proyectos%20Xcode/programas/Hamburguesa/Hamburguesa/ViewController.swift"
+                  timestampString = "475794779.801313"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
